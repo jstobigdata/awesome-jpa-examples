@@ -27,7 +27,7 @@
         <hibernate.version>5.4.4.Final</hibernate.version>
 
         <!-- Logging -->
-        <log4j2.version>2.11.0</log4j2.version>
+        <log4j2.version>2.15.0</log4j2.version>
 
         <!-- Test Dependencies -->
         <junit.version>4.11</junit.version>
