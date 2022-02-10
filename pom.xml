@@ -24,7 +24,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
 
         <!-- Hibernate and dependencies -->
-        <hibernate.version>5.4.4.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
 
         <!-- Logging -->
         <log4j2.version>2.11.0</log4j2.version>
